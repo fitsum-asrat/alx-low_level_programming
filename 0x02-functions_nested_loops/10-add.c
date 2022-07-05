@@ -11,7 +11,7 @@
 
 int add(int n, int i)
 {
-        int ret = n + i;
+	int ret = n + i;
 
-        return (ret);
+	return (ret);
 }
