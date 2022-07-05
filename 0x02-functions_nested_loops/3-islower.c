@@ -9,12 +9,12 @@
 
 int _islower(int i)
 {
-        if (i >= 'a' && i <= 'z')
-        {
-                return (1);
-        }
-        else
-        {
-                return (0);
-        }
+	if (i >= 'a' && i <= 'z')
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
 }
